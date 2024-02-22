@@ -1,0 +1,10 @@
+graphics bgColor white
+open THOC7.pdb
+color #1 lightgray cartoons
+open xlms_out/THOC7_gd.pb
+color #2 blue
+open xlms_out/THOC7_mid.pb
+color #3 yellow
+open xlms_out/THOC7_bad.pb
+color #4 red
+lighting flat
